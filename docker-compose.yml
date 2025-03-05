@@ -1,12 +1,12 @@
 version: '2'
 services:
   web:
-    image: nome_da_sua_imagem_no_docker_hub
+    image: wordpress
     ports:
       - "83:80"
     restart: always
   web2:
-    image: nome_da_sua_imagem_no_docker_hub:v2
+    image: wordpress:v2
     ports:
       - "84:80"
     restart: always
