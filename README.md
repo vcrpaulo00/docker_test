@@ -16,8 +16,6 @@ They have shown me how I can do the best analysis as a beginner programmer. Seco
 $ npm install
 ```
 
-## It left more information about the project
-
 ## Stay in touch
 
 - **Email:** paulovcr00@gmail.com
